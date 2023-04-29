@@ -3,31 +3,31 @@ let movies = [
       name: "falcon and the winter soldier",
       des:
         "Following the events of Avengers: Endgame, Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities — and their patience — in Marvel Studios The Falcon and The Winter Soldier.",
-      image: "images/slider 2.png"
+      image: "images/slider 2.PNG"
     },
     {
       name: "loki",
       des:
         "Loki was born a Frost Giant and abandoned as an infant by his father Laufey, only to be found by Odin during an invasion of the realm of the Frost Giants in Jotunheim. Odin used magic to make Loki appear Asgardian and raised him as a son alongside Odin's biological son, Thor.",
-      image: "images/slider 1.png"
+      image: "images/slider 1.PNG"
     },
     {
       name: "wanda vision",
       des:
         "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
-      image: "images/slider 3.png"
+      image: "images/slider 3.PNG"
     },
     {
       name: "raya and the last dragon",
       des:
         "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
-      image: "images/slider 4.png"
+      image: "images/slider 4.PNG"
     },
     {
       name: "luca",
       des:
         "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human. ",
-      image: "images/slider 5.png"
+      image: "images/slider 5.PNG"
     }
   ];
 
